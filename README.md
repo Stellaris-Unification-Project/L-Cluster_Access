@@ -29,16 +29,23 @@ events\distant_stars_events.txt (only some)
 #   Localisations
 
 *⠀● English – Spartan878
+
 *⠀● Deutsch / German – by F1r3Pr1nc3
+
 *⠀● 中文 / Simplified Chinese – by LunarTraveller
+
 *⠀● Spanish – by Darh
+
 *⠀● (all other only slightly with fallback support)
 
 #   Questionable Planning
 
 *⠀● L-Gate Construction not only on black holes?
+
 *⠀● Casus Belli for controlling all L-Gates (L-Cluster closed) (done)
+
 *⠀● Removing the features in the main mod A Deadly Tempest, so this should be a fully separated addon?
+
 
 ---------------------------------------------------------------------------------------------------
 
